@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lucene-analyzers-common-8.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/University College London/Modules/Semester 2/COMP0084 - Information Retrieval and Data Mining/Coursework/Coursework 2/lucene-8.4.1/analysis/common/lucene-analyzers-common-8.4.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/University College London/Modules/Semester 2/COMP0084 - Information Retrieval and Data Mining/Coursework/Coursework 2/lucene-8.4.1/core/lucene-core-8.4.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/University College London/Modules/Semester 2/COMP0084 - Information Retrieval and Data Mining/Coursework/Coursework 2/lucene-8.4.1/demo/lucene-demo-8.4.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/University College London/Modules/Semester 2/COMP0084 - Information Retrieval and Data Mining/Coursework/Coursework 2/lucene-8.4.1/queryparser/lucene-queryparser-8.4.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/University College London/Modules/Semester 2/COMP0084 - Information Retrieval and Data Mining/Coursework/Coursework 2/lucene-8.4.1/benchmark/lucene-benchmark-8.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

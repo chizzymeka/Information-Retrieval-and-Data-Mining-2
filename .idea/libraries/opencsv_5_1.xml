@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="opencsv-5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/University College London/Modules/Semester 2/COMP0084 - Information Retrieval and Data Mining/Coursework/Coursework 2/Libraries/OpenCSV/opencsv-5.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/University College London/Modules/Semester 2/COMP0084 - Information Retrieval and Data Mining/Coursework/Coursework 2/Libraries/OpenCSV/commons-lang3-3.10/commons-lang3-3.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
